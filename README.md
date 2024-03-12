@@ -20,6 +20,3 @@ Matplotlib
 
 ## Results
 The performance of the LSTM model is evaluated using metrics such as mean squared error (MSE), mean absolute error (MAE), and root mean squared error (RMSE). Visualizations are generated to compare actual Ethereum prices with predicted prices over time.
-
-## Contributions
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
